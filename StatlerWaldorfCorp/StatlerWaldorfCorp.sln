@@ -5,11 +5,6 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatlerWaldorfCorp.TeamService", "StatlerWaldorfCorp.TeamService\StatlerWaldorfCorp.TeamService.csproj", "{D8B603EF-8944-4CEE-84EF-FA05DE158B4B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B34904B4-49CB-4765-B351-F2F0703F28AD}"
-	ProjectSection(SolutionItems) = preProject
-		wercker.yml = wercker.yml
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
